@@ -1,0 +1,324 @@
+@media (max-width:575px) {
+
+    .home .container .caption h1{
+        color: #FF305B;
+        font-size: 40px;
+        font-weight: 700;
+    }
+
+    .description{
+        padding: 0px 0px 0px 200px;
+    }
+
+    .description .div{
+        width: 100%;   
+    }
+
+    .description .hello{
+        width: 100%;
+        float: none;
+        padding-left:0px;
+        padding-top: 40px;
+    }
+
+    .description .hello .line{
+        height: 25px;
+        width: 5px;
+        background-color: #FF305B;
+        float: left;
+        position: absolute;
+        top: 67px;
+    }
+
+    .services .serv{
+        width: 100%;
+        float: none;
+    }
+
+    .portfolio .images{
+        width: 100%;
+        margin-top: 20px; 
+        float: none;
+    }
+
+    .info{
+        padding: 100px 50px 54px;
+    }
+
+    .info .item{
+        padding: 70px;
+    }
+
+    .feedback{
+        padding: 100px 0px 54px;
+    }
+
+    .feedback .user .img{
+        width: 20%;
+        float: none;
+    }
+
+    .feedback .user .img img{
+        border-radius: 50%;
+        padding-right: 0px;
+    }
+
+    .feedback .user .id h3{
+        color: #333333;
+        font-size: 20px;
+    }
+    
+    .blog .post{
+        width: 100%;
+        margin:  20px 0px 20px;
+        padding: 40px 0px;    
+    }
+
+    .contact-us button{
+        left: 150px;
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .home .container .caption h1{
+        color: #FF305B;
+        font-size: 40px;
+        font-weight: 700;
+    }
+
+    .description{
+        padding: 0px 0px 0px 200px;
+    }
+
+    .description .div{
+        width: 100%;   
+    }
+
+    .description .hello{
+        width: 100%;
+        float: none;
+        padding-left:0px;
+        padding-top: 40px;
+    }
+
+    .description .hello .line{
+        height: 25px;
+        width: 5px;
+        background-color: #FF305B;
+        float: left;
+        position: absolute;
+        top: 67px;
+    }
+
+    .services .serv{
+        width: 100%;
+        float: none;
+    }
+
+    .portfolio .images{
+        width: 100%;
+        margin-top: 20px; 
+        float: none;
+    }
+
+    .info{
+        padding: 100px 50px 54px;
+    }
+
+    .info .item{
+        padding: 80px;
+    }
+
+    .feedback{
+        padding: 100px 0px 54px;
+    }
+
+    .feedback .user .img{
+        width: 20%;
+        float: none;
+    }
+
+    .feedback .user .img img{
+        border-radius: 50%;
+        padding-right: 0px;
+    }
+
+    .feedback .user .id h3{
+        color: #333333;
+        font-size: 20px;
+    }
+    
+    .blog .post{
+        width: 100%;
+        margin:  20px 0px 20px;
+        padding: 40px 0px;    
+    }
+
+    .contact-us button{
+        left: 200px;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .home .container .caption h1{
+        color: #FF305B;
+        font-size: 40px;
+        font-weight: 700;
+    }
+
+    .description{
+        padding: 0px 0px 0px 200px;
+    }
+
+    .description .div{
+        width: 100%;   
+    }
+
+    .description .hello{
+        width: 100%;
+        float: none;
+        padding-left:0px;
+        padding-top: 40px;
+    }
+
+    .description .hello .line{
+        height: 25px;
+        width: 5px;
+        background-color: #FF305B;
+        float: left;
+        position: absolute;
+        top: 67px;
+    }
+
+    .services .serv{
+        width: 100%;
+        float: none;
+    }
+
+    .portfolio .images{
+        width: 100%;
+        margin-top: 20px; 
+        float: none;
+    }
+
+    .info{
+        padding: 100px 100px 54px;
+    }
+
+    .info .item{
+        padding: 100px;
+    }
+
+    .feedback{
+        padding: 100px 0px 54px;
+    }
+
+    .feedback .user .img{
+        width: 20%;
+        float: none;
+    }
+
+    .feedback .user .img img{
+        border-radius: 50%;
+        padding-right: 0px;
+    }
+
+    .feedback .user .id h3{
+        color: #333333;
+        font-size: 20px;
+    }
+    
+    .blog .post{
+        width: 100%;
+        margin:  20px 0px 20px;
+        padding: 40px 0px;    
+    }
+
+    .contact-us button{
+        left: 300px;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+    .home .container .caption h1{
+        color: #FF305B;
+        font-size: 40px;
+        font-weight: 700;
+    }
+
+    .description{
+        padding: 0px 0px 0px 200px;
+    }
+
+    .description .div{
+        width: 100%;   
+    }
+
+    .description .hello{
+        width: 100%;
+        float: none;
+        padding-left:0px;
+        padding-top: 40px;
+    }
+
+    .description .hello .line{
+        height: 25px;
+        width: 5px;
+        background-color: #FF305B;
+        float: left;
+        position: absolute;
+        top: 67px;
+    }
+
+    .services .serv{
+        width: 100%;
+        float: none;
+    }
+
+    .portfolio .images{
+        width: 100%;
+        margin-top: 20px; 
+        float: none;
+    }
+
+    .info{
+        padding: 100px 100px 54px;
+    }
+
+    .info .item{
+        padding: 80px;
+    }
+
+    .feedback{
+        padding: 100px 0px 54px;
+    }
+
+    .feedback .user .img{
+        width: 20%;
+        float: none;
+    }
+
+    .feedback .user .img img{
+        border-radius: 50%;
+        padding-right: 0px;
+    }
+
+    .feedback .user .id h3{
+        color: #333333;
+        font-size: 20px;
+    }
+    
+    .blog .post{
+        width: 100%;
+        margin:  20px 0px 20px;
+        padding: 40px 0px;    
+    }
+
+    .contact-us button{
+        left: 300px;
+    }
+}
+
+@media (min-width:1200px) {
+
+}
